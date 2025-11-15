@@ -18,7 +18,7 @@
 <body>
 
 <div align="center">
- <img src="httpsim://via.placeholder.com/1200x300.png?text=Project+Aura+-+28+Day+OOP+Sprint" alt="Project Aura Banner">
+ 
  <h1><b>Project Aura: Phase 1</b></h1>
  <p><b>A 10-member team's 28‑day intensive sprint to master Object‑Oriented Programming (OOP) by building a full‑scale Java application.</b></p>
  <p>Welcome to our public showcase. We are a team of 10 students documenting our journey as we learn, build, and grow into professional developers.</p>
