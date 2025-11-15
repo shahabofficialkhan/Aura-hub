@@ -1,22 +1,5 @@
 <!doctype html>
 <html lang="en">
-<head>
-<meta charset="utf-8" />
-<title>Project Aura – README (Creator Edition)</title>
-<style>
- body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial;margin:32px;color:#0f172a;line-height:1.7}
- h1,h2,h3{color:#0f172a;font-weight:700}
- a{color:#2563eb;text-decoration:none}
- a:hover{text-decoration:underline}
- table{border-collapse:collapse;width:100%;margin:16px 0;border:1px solid #e2e8f0}
- th,td{border:1px solid #e2e8f0;padding:12px;text-align:left}
- th{background:#f8fafc}
- ul{margin-left:20px}
- .tagline{font-size:18px;color:#475569;margin-top:-12px}
- .highlight{background:#f1f5f9;padding:12px;border-left:4px solid #2563eb;margin:16px 0;border-radius:6px}
- .section-card{background:#f8fafc;padding:16px;border-radius:10px;margin:16px 0;border:1px solid #e2e8f0}
-</style>
-</head>
 <body>
 
 <div align="center">
