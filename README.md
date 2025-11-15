@@ -1,205 +1,160 @@
-# Aura-hub
-A collaborative project built by a 10-member student team learning, building, and growing together through real development work.
-&lt;div align=&quot;center&quot;&gt;
-  &lt;img src=&quot;httpsim://via.placeholder.com/1200x300.png?text=Project+Aura+-+28+Day+OOP+Sprint&quot; alt=&quot;Project Aura Banner&quot;&gt;
-  &lt;h1&gt;
-    &lt;b&gt;Project Aura: Phase 1&lt;/b&gt;
-  &lt;/h1&gt;
-  &lt;p&gt;
-    &lt;b&gt;A 10-member team's 28-day intensive sprint to master Object-Oriented Programming (OOP) by building a full-scale Java application.&lt;/b&gt;
-  &lt;/p&gt;
-  &lt;p&gt;
-    Welcome to our public &#39;showcase.&#39; We are a team of 10 students documenting our journey as we learn, build, and brand ourselves as professional developers.
-  &lt;/p&gt;
-  &lt;p&gt;
-    &lt;a href=&quot;#-phase-1-the-28-day-oop-sprint&quot;&gt;View Roadmap&lt;/a&gt; •
-    &lt;a href=&quot;#-learning-curriculum-the-13-chapters&quot;&gt;See Curriculum&lt;/a&gt; •
-    &lt;a href=&quot;#-our-showcase-doshowexplain&quot;&gt;Follow Our Progress&lt;/a&gt; •
-    &lt;a href=&quot;#-meet-the-team&quot;&gt;Meet the Team&lt;/a&gt;
-  &lt;/p&gt;
-&lt;/div&gt;
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Project Aura – Refined README</title>
+<style>
+ body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial;margin:32px;color:#0f172a;line-height:1.6}
+ h1,h2,h3{color:#0f172a}
+ a{color:#2563eb;text-decoration:none}
+ a:hover{text-decoration:underline}
+ table{border-collapse:collapse;width:100%;margin:16px 0}
+ th,td{border:1px solid #e2e8f0;padding:12px;text-align:left}
+ th{background:#f1f5f9}
+ ul{margin-left:20px}
+ details{margin-bottom:12px}
+</style>
+</head>
+<body>
 
------
+<div align="center">
+ <img src="httpsim://via.placeholder.com/1200x300.png?text=Project+Aura+-+28+Day+OOP+Sprint" alt="Project Aura Banner">
+ <h1><b>Project Aura: Phase 1</b></h1>
+ <p><b>A 10-member team's 28‑day intensive sprint to master Object‑Oriented Programming (OOP) by building a full‑scale Java application.</b></p>
+ <p>Welcome to our public showcase. We are a team of 10 students documenting our journey as we learn, build, and grow into professional developers.</p>
+ <p>
+  <a href="#phase1">Roadmap</a> •
+  <a href="#curriculum">Curriculum</a> •
+  <a href="#showcase">Showcase</a> •
+  <a href="#team">Meet the Team</a>
+ </p>
+</div>
 
-&lt;h2&gt;🚀 About This Project&lt;/h2&gt;
+<h2>🚀 About This Project</h2>
+<p><b>Project Aura</b> is a focused 28‑day challenge designed to transform foundational OOP concepts into a real, working application. This repository is the central hub for our code, learning, and weekly progress.</p>
 
-&lt;p&gt;&lt;b&gt;Project Aura&lt;/b&gt; is a 28-day  challenge to move from foundational OOP theory  to a "full-scale real-life project". This repository serves as the central hub for our code, our progress, and our learning.&lt;/p&gt;
+<p>Our work is built on <b>three core pillars</b>:</p>
 
-&lt;p&gt;Our execution is built on &lt;b&gt;Three Core Pillars&lt;/b&gt; :&lt;/p&gt;
+<h3>1. Core OOP Mastery</h3>
+<ul>
+ <li><b>Goal:</b> Develop a strong understanding of OOP through a structured 13‑chapter curriculum.</li>
+ <li><b>Method:</b> Build, review, and integrate each concept into a final capstone project.</li>
+</ul>
 
-&lt;h3&gt;1. Pillar 1: Core OOP Mastery&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Goal:&lt;/b&gt; To gain a deep, practical understanding of Object-Oriented Programming by completing a 13-chapter curriculum.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Method:&lt;/b&gt; Project-based learning. Each concept will be implemented, reviewed, and integrated into a final capstone project.&lt;/li&gt;
-&lt;/ul&gt;
+<h3>2. Academic & Project Synergy</h3>
+<ul>
+ <li><b>Goal:</b> Connect university topics with real development work.</li>
+ <li><b>Method:</b> Use this sprint as a practical extension of our academic studies.</li>
+</ul>
 
-&lt;h3&gt;2. Pillar 2: Academic &amp; Project Synergy&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Goal:&lt;/b&gt; To balance and integrate this intensive sprint with our ongoing university studies.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Method:&lt;/b&gt; We use this project as a practical study tool, applying academic concepts to real-world code to prepare for exams.&lt;/li&gt;
-&lt;/ul&gt;
+<h3>3. Professional Branding (Showcase)</h3>
+<ul>
+ <li><b>Goal:</b> Build a credible digital presence as future developers.</li>
+ <li><b>Method:</b> Follow a "Do / Show / Explain" workflow through GitHub, LinkedIn, and Medium.</li>
+</ul>
 
-&lt;h3&gt;3. Pillar 3: Professional Branding (The 'Showcase')&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Goal:&lt;/b&gt; To build a strong, credible digital presence  by documenting our work.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Method:&lt;/b&gt; We operate on a "Do/Show/Explain" model , using GitHub, LinkedIn, and Medium to showcase our skills.&lt;/li&gt;
-&lt;/ul&gt;
 
------
+<h2 id="phase1">🗺️ Phase 1: 28‑Day OOP Roadmap</h2>
+<p>A clear week‑by‑week breakdown of milestones.</p>
 
-&lt;h2&gt;🗺️ Phase 1: The 28-Day OOP Sprint&lt;/h2&gt;
+<table>
+<thead>
+<tr><th>Week</th><th>Units</th><th>Goal</th></tr>
+</thead>
+<tbody>
+<tr>
+ <td align="center"><b>Week 1</b><br>(Days 1–7)</td>
+ <td align="center">Ch. 1–7</td>
+ <td><b>Build a solid OOP foundation.</b><br><em>Classes, Objects, Constructors, Inheritance, Polymorphism</em></td>
+</tr>
+<tr>
+ <td align="center"><b>Week 2</b><br>(Days 8–14)</td>
+ <td align="center">Ch. 8–10</td>
+ <td><b>Apply intermediate features.</b><br><em>Abstract classes, Interfaces, Collections, Generics, File I/O</em></td>
+</tr>
+<tr>
+ <td align="center"><b>Week 3</b><br>(Days 15–21)</td>
+ <td align="center">Ch. 11–13</td>
+ <td><b>Master GUI and event handling.</b><br><em>Components, Layouts, Events</em></td>
+</tr>
+<tr>
+ <td align="center"><b>Week 4</b><br>(Days 22–28)</td>
+ <td align="center">Capstone</td>
+ <td><b>Build the full OOP application.</b><br><em>Integration, testing, documentation</em></td>
+</tr>
+</tbody>
+</table>
 
-&lt;p&gt;This is our high-level roadmap, based on the "OOPS WEEKS PLAN".&lt;/p&gt;
 
-&lt;table align=&quot;center&quot; width=&quot;100%&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th width=&quot;15%&quot;&gt;Week&lt;/th&gt;
-      &lt;th width=&quot;25%&quot;&gt;Learning Units &lt;/th&gt;
-      &lt;th width=&quot;60%&quot;&gt;Primary Goal &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td align=&quot;center&quot;&gt;
-        &lt;b&gt;Week 1&lt;/b&gt;
-        &lt;br&gt;
-        (Days 1-7)
-      &lt;/td&gt;
-      &lt;td align=&quot;center&quot;&gt;Chapters 1-7&lt;/td&gt;
-      &lt;td&gt;
-        &lt;b&gt;Build a solid foundation in OOP concepts.&lt;/b&gt;
-        &lt;br&gt;
-        &lt;em&gt;(Foundations, Classes, Objects, Constructors, Static, UML, Inheritance, Polymorphism)&lt;/em&gt;
-      &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td align=&quot;center&quot;&gt;
-        &lt;b&gt;Week 2&lt;/b&gt;
-        &lt;br&gt;
-        (Days 8-14)
-      &lt;/td&gt;
-      &lt;td align=&quot;center&quot;&gt;Chapters 8-10&lt;/td&gt;
-      &lt;td&gt;
-        &lt;b&gt;Apply intermediate OOP features.&lt;/b&gt;
-        &lt;br&gt;
-        &lt;em&gt;(Abstract Classes, Interfaces, Collections, Generics, File I/O)&lt;/em&gt;
-      &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td align=&quot;center&quot;&gt;
-        &lt;b&gt;Week 3&lt;/b&gt;
-        &lt;br&gt;
-        (Days 15-21)
-      &lt;/td&gt;
-      &lt;td align=&quot;center&quot;&gt;Chapters 11-13&lt;/td&gt;
-      &lt;td&gt;
-        &lt;b&gt;Master advanced concepts for real-world applications.&lt;/b&gt;
-        &lt;br&gt;
-        &lt;em&gt;(GUI Components, Layout Managers, Event Handling)&lt;/em&gt;
-      &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td align=&quot;center&quot;&gt;
-        &lt;b&gt;Week 4&lt;/b&gt;
-        &lt;br&gt;
-        (Days 22-28)
-      &lt;/td&gt;
-      &lt;td align=&quot;center&quot;&gt;Phase 1 Capstone&lt;/td&gt;
-      &lt;td&gt;
-        &lt;b&gt;Apply all 13 chapters to a full-scale real-life project.&lt;/b&gt;
-        &lt;br&gt;
-        &lt;em&gt;(Integration, testing, and final documentation)&lt;/em&gt;
-      &lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+<h2 id="curriculum">📚 Learning Curriculum (13 Chapters)</h2>
+<p>Our complete syllabus for this sprint. Progress is tracked with GitHub Issues.</p>
 
------
+<details><summary><b>Chapters 1–3: OOP Fundamentals</b></summary>
+<ul>
+ <li><b>Chapter 1:</b> OOP foundations, evolution, principles.</li>
+ <li><b>Chapter 2:</b> Classes, objects, fields, methods, encapsulation.</li>
+ <li><b>Chapter 3:</b> Constructors, overloading, object memory.</li>
+</ul>
+</details>
 
-&lt;h2&gt;📚 Learning Curriculum (The 13 Chapters)&lt;/h2&gt;
+<details><summary><b>Chapters 4–7: Core Implementation</b></summary>
+<ul>
+ <li><b>Chapter 4:</b> Static, GC, wrappers, immutability.</li>
+ <li><b>Chapter 5:</b> UML, association, aggregation, composition.</li>
+ <li><b>Chapter 6:</b> Inheritance, overriding, super(), final.</li>
+ <li><b>Chapter 7:</b> Polymorphism, dynamic binding, casting.</li>
+</ul>
+</details>
 
-&lt;p&gt;This is the core syllabus for our 28-day sprint. We are tracking our progress on each unit using GitHub Issues.&lt;/p&gt;
+<details><summary><b>Chapters 8–10: Intermediate Features</b></summary>
+<ul>
+ <li><b>Chapter 8:</b> Abstract classes, interfaces.</li>
+ <li><b>Chapter 9:</b> Collections, generics.</li>
+ <li><b>Chapter 10:</b> File I/O, serialization.</li>
+</ul>
+</details>
 
-&lt;details&gt;
-  &lt;summary&gt;&lt;b&gt;Chapters 1-3: OOP Fundamentals &lt;/b&gt;&lt;/summary&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;b&gt;Chapter 1: OOP Foundations:&lt;/b&gt; What is OOP, Why OOP evolved, OOP vs Procedural, Principles (Abstraction, Encapsulation, Inheritance, Polymorphism).&lt;/li&gt;
-    &lt;li&gt;&lt;b&gt;Chapter 2: Classes &amp; Objects:&lt;/b&gt; Class structure, Fields, methods, Creating objects, Object state, Encapsulation (getters/setters), Package access.&lt;/li&gt;
-    &lt;li&gt;&lt;b&gt;Chapter 3: Constructors:&lt;/b&gt; Default, Parameterized, Overloading, Copy constructor, Memory allocation, Object as reference.&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/details&gt;
+<details><summary><b>Chapters 11–13: GUI Application</b></summary>
+<ul>
+ <li><b>Chapter 11:</b> Basic GUI components.</li>
+ <li><b>Chapter 12:</b> Layout managers.</li>
+ <li><b>Chapter 13:</b> Event handling, listeners, adapters.</li>
+</ul>
+</details>
 
-&lt;details&gt;
-  &lt;summary&gt;&lt;b&gt;Chapters 4-7: Core OOP Implementation &lt;/b&gt;&lt;/summary&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;b&gt;Chapter 4: Static &amp; Basic Features:&lt;/b&gt; Static fields/methods, finalize(), Garbage collection, Immutable objects, Wrapper classes.&lt;/li&gt;
-    &lt;li&gt;&lt;b&gt;Chapter 5: UML &amp; Relations:&lt;/b&gt; Class diagrams, Associations, Aggregation vs Composition, Forward &amp; reverse engineering.&lt;/li&gt;
-    &lt;li&gt;&lt;b&gt;Chapter 6: Inheritance:&lt;/b&gt; Superclasses/subclasses, `super` keyword, `protected` access, `final` keyword, Constructor chaining, Overriding vs overloading.&lt;/li&gt;
-    &lt;li&gt;&lt;b&gt;Chapter 7: Polymorphism:&lt;/b&gt; Runtime polymorphism, Dynamic binding, Upcasting/downcasting, `equals()`, `toString()`, Subtyping relations.&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/details&gt;
 
-&lt;details&gt;
-  &lt;summary&gt;&lt;b&gt;Chapters 8-10: Intermediate Features &lt;/b&gt;&lt;/summary&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;b&gt;Chapter 8: Abstract &amp; Interfaces:&lt;/b&gt; Abstract classes, Abstract methods, Interfaces, `Comparable` &amp; `Cloneable`.&lt;/li&gt;
-    &lt;li&gt;&lt;b&gt;Chapter 9: Collections &amp; Generics:&lt;/b&gt; `ArrayList`, Generic classes, Type safety, Static vs dynamic typing.&lt;/li&gt;
-    &lt;li&gt;&lt;b&gt;Chapter 10: File I/O:&lt;/b&gt; Reading text files, Writing text files, Binary streams, Object serialization.&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/details&gt;
+<h2 id="showcase">📢 Showcase: Do / Show / Explain</h2>
+<ul>
+ <li><b>GitHub – "Do the Work":</b> Code commits, issues, PRs, milestones.</li>
+ <li><b>LinkedIn – "Show the Work":</b> Updates, demos, reflections.</li>
+ <li><b>Medium – "Explain the Work":</b> Deep‑dive articles on design decisions.</li>
+</ul>
 
-&lt;details&gt;
-  &lt;summary&gt;&lt;b&gt;Chapters 11-13: GUI Application &lt;/b&gt;&lt;/summary&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;b&gt;Chapter 11: GUI Components:&lt;/b&gt; Label, Button, TextField, TextArea, ScrollBar, ComboBox, RadioButton.&lt;/li&gt;
-    &lt;li&gt;&lt;b&gt;Chapter 12: Layout Managers:&lt;/b&gt; BorderLayout, FlowLayout, GridLayout.&lt;/li&gt;
-    &lt;li&gt;&lt;b&gt;Chapter 13: Event Handling:&lt;/b&gt; Event-driven programming, Event types, Listener interfaces, Inner classes, Anonymous classes, Lambda event handling, Window listeners, Adapter classes.&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/details&gt;
 
------
+<h2 id="team">👥 Meet the Team</h2>
+<p>We are a 10‑member team of dedicated student developers.</p>
+<ul>
+ <li><b>Muhammad Shahab (Team Lead)</b> – LinkedIn | GitHub</li>
+ <li><b>Syed Riyan Gillani</b> – LinkedIn | GitHub</li>
+ <li><b>Muneeb Anwar</b> – LinkedIn | GitHub</li>
+ <li><b>M. Hasan Asif</b> – LinkedIn | GitHub</li>
+ <li><b>Huzaifa Ayaz</b> – LinkedIn | GitHub</li>
+ <li><b>Areeb Fatima</b> – LinkedIn | GitHub</li>
+ <li><b>Hasham Hassan</b> – LinkedIn | GitHub</li>
+ <li><b>Raheel Arshad</b> – LinkedIn | GitHub</li>
+ <li><b>Fahad Ayaz</b> – LinkedIn | GitHub</li>
+ <li><i>Team Member 10</i> – LinkedIn | GitHub</li>
+</ul>
 
-&lt;h2&gt;📢 Our Showcase: Do/Show/Explain&lt;/h2&gt;
 
-&lt;p&gt;We believe in building in public. This project is our "Showcase". You can follow our progress on three platforms :&lt;/p&gt;
+<h2>🤝 How to Contribute</h2>
+<p>This sprint is focused on internal team development. External contributions are not open for Phase 1, but we welcome:</p>
+<ul>
+ <li><b>Feedback:</b> Create an Issue for suggestions.</li>
+ <li><b>Support:</b> Star the repo and follow our updates.</li>
+</ul>
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;GitHub (Here!) - "Do the work" (3-5x/week):&lt;/b&gt;&lt;br&gt;
-    This repository is our single source of truth. We commit meaningful progress on our 1-2 key projects. Watch our code, review our PRs, and track our progress on the &lt;a href=&quot;&quot;&gt;Project Kanban Board&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;LinkedIn - "Show the work" (3-5x/week):&lt;/b&gt;&lt;br&gt;
-    We post about our project, share our key learnings, demo new features, and engage with the developer community. Follow our team members and the hashtag &lt;b&gt;#AuraProject&lt;/b&gt; on LinkedIn.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Medium - "Explain the work" (1-2x/month):&lt;/b&gt;&lt;br&gt;
-    We write high-quality articles that tell the story behind our GitHub projects. These deep dives will explain &lt;em&gt;why&lt;/em&gt; we made certain design choices and &lt;em&gt;what&lt;/em&gt; we learned in the process. Follow our &lt;a href=&quot;&quot;&gt;Medium Publication&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
+<p><em>Phase 1 concludes with a "Rewards Day" to recognize top performers. Good luck to the entire team!</em></p>
 
------
-
-&lt;h2 id=&quot;meet-the-team&quot;&gt;👥 Meet the Team&lt;/h2&gt;
-
-&lt;p&gt;We are a 10-member team of passionate student developers.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Muhammad Shahab (Team Lead)&lt;/b&gt;  - &lt;a href=&quot;https://www.linkedin.com/in/muhammad-shahab-57a35834a&quot;&gt;LinkedIn&lt;/a&gt; | [GitHub Profile Link]&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Syed Riyan Gillani&lt;/b&gt; - &lt;a href=&quot;https://www.linkedin.com/in/muhammad-riyan-032452280&quot;&gt;LinkedIn&lt;/a&gt; | [GitHub Profile Link]&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Muneeb Anwar&lt;/b&gt; - &lt;a href=&quot;https://www.linkedin.com/in/muneeb-anwar-68365b374&quot;&gt;LinkedIn&lt;/a&gt; | [GitHub Profile Link]&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;M. Hasan Asif&lt;/b&gt; - &lt;a href=&quot;https://www.linkedin.com/in/m-hasan-asif-9a7966349&quot;&gt;LinkedIn&lt;/a&gt; | [GitHub Profile Link]&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Huzaifa Ayaz&lt;/b&gt; - &lt;a href=&quot;https://www.linkedin.com/in/huzaifa-ayaz-a1653a396&quot;&gt;LinkedIn&lt;/a&gt; | [GitHub Profile Link]&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Areeb Fatima&lt;/b&gt; - &lt;a href=&quot;https://www.linkedin.com/in/areeb-fatima-435b5b391&quot;&gt;LinkedIn&lt;/a&gt; | [GitHub Profile Link]&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Hasham Hassan&lt;/b&gt; - &lt;a href=&quot;https://www.linkedin.com/in/hasham-hassan-a294492b8&quot;&gt;LinkedIn&lt;/a&gt; | [GitHub Profile Link]&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Raheel Arshad&lt;/b&gt; - &lt;a href=&quot;https://www.linkedin.com/in/raheel-arshad-47326322a&quot;&gt;LinkedIn&lt;/a&gt; | [GitHub Profile Link]&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Fahad Ayaz&lt;/b&gt; - &lt;a href=&quot;https://www.linkedin.com/in/fahad-ayaz-95421b380&quot;&gt;LinkedIn&lt;/a&gt; | [GitHub Profile Link]&lt;/li&gt;
-  &lt;li&gt;&lt;i&gt;(Team Member 10)&lt;/i&gt; - [LinkedIn Profile Link] | [GitHub Profile Link]&lt;/li&gt;
-&lt;/ul&gt;
-
------
-
-&lt;h2&gt;🤝 How to Contribute&lt;/h2&gt;
-
-&lt;p&gt;As this is a 28-day sprint for our team, we are not actively seeking external contributions for Phase 1. However, we welcome:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Feedback:&lt;/b&gt; Please feel free to open an &lt;b&gt;Issue&lt;/b&gt; if you spot a bug or have a suggestion.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Following Along:&lt;/b&gt; Star this repository and follow our journey on LinkedIn and Medium!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;This project will conclude with a &lt;b&gt;Rewards Day&lt;/b&gt;  to celebrate the completion of Phase 1 and recognize top performers. Best Luck to the team!&lt;/em&gt;&lt;/p&gt;
+</body>
+</html>
