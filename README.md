@@ -1,131 +1,207 @@
-<html lang="en">
-<body>
+<!-- Project Aura – Phase 1 | Pro-Level README -->
 
 <div align="center">
- <h1>⚡ Project Aura – Phase 1</h1>
- <p class="tagline"><b>A 10‑member powerhouse team learning, building & documenting the journey publicly.</b></p>
- <p>Transparent learning. Real teamwork. Public progress. This is Aura.</p>
- <p>
-  <a href="#overview">Overview</a> •
-  <a href="#roadmap">Roadmap</a> •
-  <a href="#curriculum">Curriculum</a> •
-  <a href="#showcase">Showcase</a> •
-  <a href="#team">Team</a>
- </p>
+
+# ⚡ Project Aura — Phase 1  
+[![Status](https://img.shields.io/badge/Status-In_Progress-yellow)](../../issues)
+[![Team Size](https://img.shields.io/badge/Team-10-blue)]()
+[![LinkedIn](https://img.shields.io/badge/Follow%20us-LinkedIn-blue)](https://linkedin.com/company/your-aura-page)
+[![GitHub Stars](https://img.shields.io/github/stars/shahabofficialkhan/aura)](https://github.com/shahabofficialkhan/aura/stargazers)
+[![Last Update](https://img.shields.io/github/last-commit/shahabofficialkhan/aura)](https://github.com/shahabofficialkhan/aura/commits)
+
+---
+
+**A 10‑member powerhouse team: learning, building & documenting the journey publicly.**
+
+> Transparent learning.  
+> Real teamwork.  
+> Public progress.  
+> _Welcome to Aura._
+
+[Overview](#overview) • [Roadmap](#roadmap) • [Curriculum](#curriculum) • [Showcase](#showcase) • [Team](#team) • [Contribution](#contribution)
+
 </div>
 
+---
 
-<h2 id="overview">🚀 Overview (Creator‑Focused)</h2>
-<div class="section-card">
- <p><b>Project Aura</b> is a public‑facing learning sprint built on top‑creator philosophy:</p>
- <ul>
-  <li><b>Build in Public:</b> Share progress, wins, and lessons every week.</li>
-  <li><b>Learn Out Loud:</b> Convert learning into content for GitHub, LinkedIn, Medium.</li>
-  <li><b>Document Everything:</b> Treat this repo as proof of work for internships.</li>
- </ul>
+## 🚀 Overview
+
+**Project Aura** is a public-facing learning sprint powered by top-creator philosophy.  
+- 🟠 **Build in Public:** Weekly shares of progress, wins, and lessons.  
+- 🟢 **Learn Out Loud:** Transform learning into content for GitHub, LinkedIn, Medium.  
+- 🔵 **Document Everything:** Every commit and lesson is portfolio-ready proof of work.
+
+> **Mission:** In 28 days, turn OOP + teamwork into a professional-grade portfolio project.
+
+---
+
+## 📈 Progress Dashboard
+
+<div align="center">
+
+<!-- ========================
+    PROGRESS DASHBOARD SECTION
+    ======================== -->
+
+<!-- Replace these chart/images with your current project stats.
+     Update them regularly as your team progresses!
+-->
+
+<!-- Example Progress Chart -->
+<img src=""
+     width="320" alt="Aura Project Progress Chart ">
+
+<!-- Example Contribution Graph -->
+<img src="" 
+     width="680" alt="Team Contribution Graph ">
+
+<!-- Example Progress Bars — edit values as you progress -->
+<br>
+<b>Week 1: Core OOP Basics</b>
+<img src="" alt=" Week 1 Progress  ->In Progress " />
+<br>
+<b>Week 2: Intermediate OOP</b>
+<img src="" alt="Week 2 Progress
+-> Pending "/>
+<br>
+<b>Week 3: GUI Development</b>
+<img src="" alt="Week 3 Progress
+-> Pending"/>
+<br>
+<b>Week 4: Capstone Build</b>
+<img src="" alt="Week 4 Progress
+-> Pending "/>
+
+<!-- You can add more charts, badges, stats, or even team contributions as images/SVGs! -->
+
 </div>
 
-<div class="highlight">
-<b>Mission:</b> Turn 28 days of OOP + teamwork into a professional‑grade portfolio project.
-</div>
+---
 
+## 🗺️ 28‑Day Roadmap
 
-<h2 id="roadmap">🗺️ 28‑Day Roadmap (Phase 1)</h2>
-<table>
-<thead>
-<tr><th>Week</th><th>Focus</th><th>Outcome</th></tr>
-</thead>
-<tbody>
-<tr>
- <td><b>Week 1</b></td>
- <td>Core OOP Basics</td>
- <td>Classes, Objects, Constructors</td>
-</tr>
-<tr>
- <td><b>Week 2</b></td>
- <td>Intermediate OOP</td>
- <td>Abstract, Interfaces, Collections</td>
-</tr>
-<tr>
- <td><b>Week 3</b></td>
- <td>GUI Development</td>
- <td>Swing, Events, Layouts</td>
-</tr>
-<tr>
- <td><b>Week 4</b></td>
- <td>Capstone Build</td>
- <td>Final Project + Documentation</td>
-</tr>
-</tbody>
-</table>
+```mermaid
+gantt
+    dateFormat  MM-DD
+    title Aura 28-Day Plan
+    section Week 1
+    Core OOP        :active, 01-01, 7d
+    section Week 2
+    Intermediate OOP: 01-08, 7d
+    section Week 3
+    GUI Development : 01-15, 7d
+    section Week 4
+    Capstone Build  : 01-22, 7d
+```
 
+| **Week**    | **Focus**           | **Outcome**                    |
+|:-----------:|:--------------------|:-------------------------------|
+| **Week 1**  | Core OOP Basics     | Classes, Objects, Constructors |
+| **Week 2**  | Intermediate OOP    | Abstraction, Interfaces, Collections |
+| **Week 3**  | GUI Development     | Swing, Events, Layouts         |
+| **Week 4**  | Capstone Build      | Final Project & Documentation  |
 
-<h2 id="curriculum">📚 Curriculum (13 Chapters)</h2>
-<p>Structured breakdown of everything the team will cover.</p>
+---
 
-<details><summary><b>Chapters 1–3: Foundations</b></summary>
+## 📚 Curriculum (13 Chapters)
+
+A thorough path for the entire team.
+
+<details>
+<summary><b>Chapters 1–3: Foundations</b></summary>
 <ul>
- <li>OOP principles</li>
- <li>Classes & objects</li>
- <li>Constructors, overloading</li>
+  <li>OOP Principles</li>
+  <li>Classes & Objects</li>
+  <li>Constructors & Overloading</li>
 </ul>
 </details>
 
-<details><summary><b>Chapters 4–7: Core OOP</b></summary>
+<details>
+<summary><b>Chapters 4–7: Core OOP</b></summary>
 <ul>
- <li>Static, GC, UML</li>
- <li>Inheritance, polymorphism</li>
- <li>Composition, aggregation</li>
+  <li>Static, GC, UML</li>
+  <li>Inheritance, Polymorphism</li>
+  <li>Composition, Aggregation</li>
 </ul>
 </details>
 
-<details><summary><b>Chapters 8–10: Advanced Concepts</b></summary>
+<details>
+<summary><b>Chapters 8–10: Advanced Concepts</b></summary>
 <ul>
- <li>Abstract classes & interfaces</li>
- <li>Collections & generics</li>
- <li>File I/O & serialization</li>
+  <li>Abstract Classes & Interfaces</li>
+  <li>Collections & Generics</li>
+  <li>File I/O & Serialization</li>
 </ul>
 </details>
 
-<details><summary><b>Chapters 11–13: GUI Application</b></summary>
+<details>
+<summary><b>Chapters 11–13: GUI Application</b></summary>
 <ul>
- <li>Components</li>
- <li>Layouts</li>
- <li>Event handling</li>
+  <li>Components</li>
+  <li>Layouts</li>
+  <li>Event Handling</li>
 </ul>
 </details>
 
+---
 
-<h2 id="showcase">📢 Showcase Strategy (Top‑Creator Playbook)</h2>
-<div class="section-card">
- <p><b>We follow the “Do → Show → Teach” growth formula:</b></p>
- <ul>
-  <li><b>GitHub:</b> Do the work → Commit, PR, branches.</li>
-  <li><b>LinkedIn:</b> Show the work → Weekly updates, reflections.</li>
-  <li><b>Medium:</b> Teach the work → Articles, breakdowns, lessons.</li>
- </ul>
+## ✨ Showcase Strategy
+
+**Our “Do → Show → Teach” growth formula:**  
+- 🔨 **GitHub:** _Do the work_ → Commits, PRs, branch management.  
+- 🗣️ **LinkedIn:** _Show your progress_ → Weekly updates & reflections.  
+- 📖 **Medium:** _Teach the process_ → Articles, breakdowns, key lessons.
+
+---
+
+## 👥 Meet the Aura Team
+
+<div align="center">
+
+| [Muhammad Shahab <br>(Team Lead)](https://linkedin.com/in/shahabofficialkhan) | [Syed Riyan Gillani](https://linkedin.com/in/syed-riyan-gillani) | [Muneeb Anwar](https://linkedin.com/in/muneeb-anwar) |
+|:--:|:--:|:--:|
+| [M. Hasan Asif](https://linkedin.com/in/m-hasan-asif) | [Huzaifa Ayaz](https://linkedin.com/in/huzaifa-ayaz) | [Areeb Fatima](https://linkedin.com/in/areeb-fatima) |
+| [Hasham Hassan](https://linkedin.com/in/hasham-hassan) | [Raheel Arshad](https://linkedin.com/in/raheel-arshad) | [Fahad Ayaz](https://linkedin.com/in/fahad-ayaz) |
+
+**Team Member 10**
+
 </div>
 
+---
 
-<h2 id="team">👥 Meet the Aura Team (10 Members)</h2>
-<p>Highly motivated students building their first large‑scale collaborative project.</p>
-<ul>
- <li><b>Muhammad Shahab (Team Lead)</b></li>
- <li><b>Syed Riyan Gillani</b></li>
- <li><b>Muneeb Anwar</b></li>
- <li><b>M. Hasan Asif</b></li>
- <li><b>Huzaifa Ayaz</b></li>
- <li><b>Areeb Fatima</b></li>
- <li><b>Hasham Hassan</b></li>
- <li><b>Raheel Arshad</b></li>
- <li><b>Fahad Ayaz</b></li>
- <li><i>Team Member 10</i></li>
-</ul>
+## 🏆 Milestones
 
+| Milestone                | Status        | ETA      |
+|--------------------------|--------------|----------|
+| Curriculum Finalized     | ✅ Completed  | Day 3    |
+| 1st Public Commit        | ✅ Completed  | Day 4    |
+| GUI Prototype            | ⏳ In Progress| Day 18   |
+| Capstone Deployment      | ⌛ Upcoming   | Day 27   |
 
-<h2>🤝 Contribution</h2>
-<p>Phase 1 is internal only. External feedback is welcome via Issues.</p>
-<p>⭐ Star the repo to support the team’s public learning journey.</p>
+---
 
-</body>
-</html>
+## 🤝 Contribution
+
+> **Phase 1 is internal — but external feedback shapes us!**  
+- 💡 [Create an Issue](../../issues) & help us grow.
+- ⭐ **Star** the repo to boost our journey.
+
+---
+
+<div align="center">
+
+![Aura Animation]() <!-- Optional: your branding gif/image -->
+
+#### Made with teamwork, dedication, and a desire to grow.  
+**Follow our journey. Join our story.**
+
+</div>
+
+---
+
+<!-- 
+TIPS:
+- Edit the Progress Dashboard above as your team moves ahead.
+- Swap out chart/image URLs with your latest stats and team visuals.
+- Want more? Add custom SVGs, shields.io badges, or your own dashboard graphics!
+-->
