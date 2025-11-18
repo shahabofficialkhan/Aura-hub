@@ -1,5 +1,4 @@
 <!-- Project Aura – Phase 1 | Pro-Level README -->
-
 <div align="center">
 
 # ⚡ Project Aura — Phase 1  
@@ -96,7 +95,7 @@ gantt
 
 | **Week**    | **Focus**           | **Outcome**                    |
 |:-----------:|:--------------------|:-------------------------------|
-| **Week 1**  | Core OOP Basics     | Classes, Objects, Constructors |
+| **Week 1**  | Core OOP Basics     | Classes, Objects, Constructors |HAFE DONE
 | **Week 2**  | Intermediate OOP    | Abstraction, Interfaces, Collections |
 | **Week 3**  | GUI Development     | Swing, Events, Layouts         |
 | **Week 4**  | Capstone Build      | Final Project & Documentation  |
