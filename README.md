@@ -1,7 +1,7 @@
 <!-- Project Aura – Phase 1 | Pro-Level README -->
 <div align="center">
 
-# ⚡ Project Aura — Phase 1  
+# ⚡ Project Aura Phase 1  
 [![Status](https://img.shields.io/badge/Status-In_Progress-yellow)](../../issues)
 [![Team Size](https://img.shields.io/badge/Team-10-blue)]()
 [![LinkedIn](https://img.shields.io/badge/Follow%20us-LinkedIn-blue)](https://linkedin.com/company/your-aura-page)
