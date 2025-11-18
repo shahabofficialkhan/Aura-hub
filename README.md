@@ -66,7 +66,7 @@
 <b>Week 3: GUI Development</b>
 <img src="" alt="Week 3 Progress
 -> Pending"/>
-<br>
+<br> 
 <b>Week 4: Capstone Build</b>
 <img src="" alt="Week 4 Progress
 -> Pending "/>
