@@ -57,19 +57,21 @@
 <!-- Example Progress Bars — edit values as you progress -->
 <br>
 <b>Week 1: Core OOP Basics</b>
-<img src="" alt=" Week 1 Progress  ->In Progress " />
+<img src="" alt="Week 1 Progress -> Done" />
 <br>
+
 <b>Week 2: Intermediate OOP</b>
-<img src="" alt="Week 2 Progress
--> Pending "/>
+<img src="" alt="Week 2 Progress -> In Progress" />
 <br>
+
 <b>Week 3: GUI Development</b>
-<img src="" alt="Week 3 Progress
--> Pending"/>
-<br> 
+<img src="" alt="Week 3 Progress -> Pending" />
+<br>
+
 <b>Week 4: Capstone Build</b>
-<img src="" alt="Week 4 Progress
--> Pending "/>
+<img src="" alt="Week 4 Progress -> Pending" />
+<br>
+
 
 <!-- You can add more charts, badges, stats, or even team contributions as images/SVGs! -->
 
